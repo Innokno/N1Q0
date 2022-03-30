@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devvedout
-- 👀 I’m interested in games development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C# and python
 - 📫 You can DM me on Discord Devvedout#4480
 
 <!---
